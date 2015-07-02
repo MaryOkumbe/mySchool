@@ -1,6 +1,22 @@
-body{padding: 200px;
+body{padding: 120px;
 background-color: grey; 
 display:table;}
 #navbar{background-color: white;
 padding: 3px;
 margin:16px;}
+#discussion{margin:3px;
+padding:2px;
+font-style: italic;
+font-family: serif;
+float:right;}
+#intro{margin:6px;
+padding:3px;
+
+font-size:3px;
+font-style:italic;
+font-family: serif;
+float:top;}
+#fashion{margin:6px;
+padding:3px;
+font-style: italic;
+font-family: serif;}
