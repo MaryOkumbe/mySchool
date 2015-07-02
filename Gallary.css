@@ -1,2 +1,6 @@
 body{padding: 200px;
-border-color: grey;  }
+background-color: grey; 
+display:table;}
+#navbar{background-color: white;
+padding: 3px;
+margin:16px;}
